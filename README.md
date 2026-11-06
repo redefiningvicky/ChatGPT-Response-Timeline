@@ -1,6 +1,6 @@
 # 🗓️ ChatGPT Response Timeline
 ## 🎯 Objective <br>
-This project explores  <p>
+This project compares ChatGPT 5 (2025) and ChatGPT 6 Astra (2026) responses to the question, “Are people in a vegetative state aware and conscious?” through a visual timeline. <p>
 ## 🎬 Inspiration <br>
 ### ChatGPT Progress
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ccc;">
