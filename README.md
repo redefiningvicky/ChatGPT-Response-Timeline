@@ -30,7 +30,7 @@ A vegetative state—also called unresponsive wakefulness syndrome—means a per
 The important complication is hidden awareness: some people who cannot respond through movement or speech can follow instructions in ways detected by specialized brain scans or EEG. A 2024 study detected this in 25% of participants who could not visibly follow commands. That group included people with coma, vegetative state, and minimally conscious state—so 25% is not an estimate for vegetative state alone. These findings also don’t tell us the full extent of someone’s thoughts or experiences. <p>
 For a particular person, a lack of visible response does not conclusively prove a lack of awareness. Careful specialist assessment matters, and even a negative brain-based test cannot reliably rule awareness out. </p>
 ## 🗓️ Timeline <br>
-This project is a fully functional presentation available at the following links: [View Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/054ea6352fa09cb7c9ebdecda5ff0369c62039be/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.pdf)
+This project is a fully functional presentation available at the following link: [View Timeline](https://github.com/redefiningvicky/ChatGPT-Response-Timeline/blob/054ea6352fa09cb7c9ebdecda5ff0369c62039be/ChatGPT_Response_Timeline/ChatGPT_Response_Timeline_Prompt.pdf)
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border-color: #ccc;">
   <tr>
     <td align="center">
