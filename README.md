@@ -65,6 +65,8 @@
   <strong>Model:</strong> ChatGPT 5 (2025), ChatGPT 6 Astra (2026)
 </p>
 
+<p><strong>Format:</strong> Image</p>
+
 <hr>
 
 <h2 id="question">❓ Question</h2>
